@@ -96,4 +96,4 @@ python -m pytest
 - This is a portfolio project, not a production service. Authentication, deployment hardening, audit retention, and enterprise access controls are outside the current scope.
 
 
-**What would you improve next?** Add dataset-specific schema mapping, stronger evaluation cases for tool selection and answer faithfulness, data-size limits, request timeouts, and a deployment model with authentication and audit logs.
+
