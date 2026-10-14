@@ -1,0 +1,121 @@
+order_date,order_id,region,category,product,units,unit_price,discount_pct,cost_per_unit,delivery_days,status
+2026-02-10,ORD-0001,North,Home,Desk Lamp,6,1898,0,1157.78,8,Cancelled
+2026-06-08,ORD-0002,West,Outdoor,Water Bottle,5,476,0,199.92,1,Delivered
+2026-09-19,ORD-0003,North,Outdoor,Daypack,4,673,10,417.26,3,Delivered
+2026-02-17,ORD-0004,North,Home,Coffee Table,3,631,15,429.08,4,Delivered
+2026-05-04,ORD-0005,West,Home,Storage Box,7,3908,0,2618.36,5,Cancelled
+2026-05-01,ORD-0006,South,Technology,Webcam,8,1969,5,1319.23,2,Cancelled
+2026-05-13,ORD-0007,East,Home,Storage Box,5,1728,0,846.72,3,Delivered
+2026-04-19,ORD-0008,North,Office,Pen Pack,6,4226,0,2113.00,8,Cancelled
+2026-06-24,ORD-0009,North,Outdoor,Water Bottle,1,3224,10,1708.72,1,Cancelled
+2026-06-05,ORD-0010,North,Technology,USB Hub,3,372,15,197.16,5,Cancelled
+2026-04-25,ORD-0011,North,Outdoor,Travel Mug,1,634,10,285.30,2,Processing
+2026-04-21,ORD-0012,North,Outdoor,Daypack,5,3103,10,1551.50,5,Delivered
+2026-07-08,ORD-0013,North,Outdoor,Water Bottle,6,4291,15,3089.52,1,Delivered
+2026-04-27,ORD-0014,South,Office,Notebook Set,8,2498,0,1124.10,3,Processing
+2026-05-17,ORD-0015,South,Outdoor,Daypack,4,3787,0,1931.37,5,Cancelled
+2026-02-10,ORD-0016,West,Technology,Wireless Mouse,8,1915,10,919.20,8,Cancelled
+2026-09-25,ORD-0017,East,Technology,Webcam,7,2507,0,1378.85,2,Cancelled
+2026-07-04,ORD-0018,South,Home,Desk Lamp,6,1523,5,1066.10,5,Delivered
+2026-01-17,ORD-0019,South,Technology,USB Hub,6,1518,0,941.16,6,Cancelled
+2026-03-28,ORD-0020,South,Home,Coffee Table,1,2224,20,956.32,5,Delivered
+2026-09-25,ORD-0021,South,Home,Storage Box,5,2156,0,1487.64,3,Delivered
+2026-02-15,ORD-0022,East,Outdoor,Water Bottle,8,2680,15,1527.60,2,Delivered
+2026-01-14,ORD-0023,South,Office,Desk Chair,7,2358,20,1108.26,3,Delivered
+2026-02-25,ORD-0024,East,Home,Desk Lamp,4,2229,0,1270.53,4,Delivered
+2026-05-21,ORD-0025,South,Home,Storage Box,3,182,5,103.74,8,Delivered
+2026-07-06,ORD-0026,South,Home,Desk Lamp,5,833,0,349.86,3,Delivered
+2026-06-07,ORD-0027,West,Office,Pen Pack,6,2470,0,1160.90,7,Delivered
+2026-01-18,ORD-0028,East,Technology,Webcam,2,3927,5,2159.85,4,Cancelled
+2026-05-17,ORD-0029,North,Outdoor,Travel Mug,2,464,10,208.80,8,Processing
+2026-06-28,ORD-0030,East,Home,Desk Lamp,6,2689,0,1371.39,4,Delivered
+2026-08-17,ORD-0031,North,Outdoor,Travel Mug,6,1231,10,553.95,3,Processing
+2026-06-04,ORD-0032,South,Office,Desk Chair,1,590,20,247.80,4,Processing
+2026-08-26,ORD-0033,South,Home,Storage Box,5,4323,5,2377.65,5,Cancelled
+2026-07-26,ORD-0034,South,Technology,Wireless Mouse,7,1572,0,786.00,6,Delivered
+2026-08-27,ORD-0035,North,Office,Pen Pack,7,666,10,446.22,3,Delivered
+2026-02-11,ORD-0036,South,Office,Desk Chair,2,3859,0,2585.53,5,Delivered
+2026-09-08,ORD-0037,North,Technology,Webcam,7,3035,20,1760.30,4,Delivered
+2026-01-13,ORD-0038,North,Office,Pen Pack,5,2649,10,1880.79,2,Delivered
+2026-07-06,ORD-0039,North,Office,Notebook Set,1,315,10,195.30,2,Delivered
+2026-04-07,ORD-0040,North,Technology,Webcam,6,1022,20,470.12,5,Cancelled
+2026-02-23,ORD-0041,East,Outdoor,Travel Mug,5,3261,5,2184.87,7,Delivered
+2026-05-04,ORD-0042,North,Outdoor,Daypack,1,1119,5,783.30,4,Delivered
+2026-05-10,ORD-0043,East,Outdoor,Travel Mug,1,427,15,213.50,5,Delivered
+2026-08-02,ORD-0044,East,Outdoor,Daypack,7,544,0,353.60,6,Delivered
+2026-08-05,ORD-0045,South,Technology,Webcam,7,3256,0,1400.08,6,Delivered
+2026-04-25,ORD-0046,North,Outdoor,Travel Mug,4,2297,0,1148.50,8,Delivered
+2026-04-24,ORD-0047,East,Technology,Webcam,2,3203,10,1697.59,4,Delivered
+2026-02-23,ORD-0048,South,Outdoor,Travel Mug,2,828,10,596.16,5,Delivered
+2026-05-13,ORD-0049,West,Outdoor,Travel Mug,3,2340,15,1216.80,8,Cancelled
+2026-03-26,ORD-0050,West,Technology,Wireless Mouse,5,2608,0,1538.72,3,Delivered
+2026-06-13,ORD-0051,East,Home,Storage Box,3,3453,20,2002.74,3,Delivered
+2026-04-20,ORD-0052,East,Technology,Webcam,6,254,0,147.32,4,Delivered
+2026-06-02,ORD-0053,South,Home,Coffee Table,7,3764,10,1769.08,8,Processing
+2026-08-11,ORD-0054,South,Technology,Webcam,1,2487,5,1218.63,2,Processing
+2026-03-27,ORD-0055,East,Technology,Webcam,5,1781,0,1157.65,4,Processing
+2026-03-16,ORD-0056,East,Office,Pen Pack,8,3930,0,2515.20,3,Cancelled
+2026-05-04,ORD-0057,North,Outdoor,Daypack,1,3984,0,2390.40,5,Processing
+2026-09-03,ORD-0058,North,Outdoor,Travel Mug,2,1615,5,872.10,3,Delivered
+2026-06-20,ORD-0059,North,Home,Desk Lamp,4,3753,5,1838.97,8,Delivered
+2026-02-02,ORD-0060,East,Home,Coffee Table,6,1125,20,765.00,6,Delivered
+2026-02-11,ORD-0061,West,Technology,Webcam,8,2579,0,1702.14,5,Delivered
+2026-03-09,ORD-0062,West,Outdoor,Water Bottle,4,2694,0,1535.58,4,Delivered
+2026-04-23,ORD-0063,East,Home,Storage Box,5,1894,20,814.42,4,Delivered
+2026-01-04,ORD-0064,North,Office,Pen Pack,5,4069,0,1953.12,5,Delivered
+2026-06-02,ORD-0065,West,Office,Notebook Set,4,1755,0,1263.60,1,Cancelled
+2026-04-04,ORD-0066,North,Office,Notebook Set,7,209,20,110.77,3,Delivered
+2026-01-12,ORD-0067,East,Office,Desk Chair,3,3233,5,1519.51,1,Delivered
+2026-09-09,ORD-0068,West,Outdoor,Travel Mug,8,3217,5,1962.37,8,Processing
+2026-02-12,ORD-0069,East,Office,Desk Chair,2,521,10,333.44,7,Delivered
+2026-06-22,ORD-0070,East,Technology,Webcam,6,317,5,218.73,7,Delivered
+2026-09-03,ORD-0071,South,Technology,USB Hub,1,3736,20,2166.88,6,Cancelled
+2026-08-25,ORD-0072,South,Technology,Webcam,6,4206,0,2481.54,1,Delivered
+2026-03-13,ORD-0073,West,Outdoor,Travel Mug,6,2988,0,2121.48,6,Cancelled
+2026-07-10,ORD-0074,South,Technology,Wireless Mouse,3,3694,0,2401.10,1,Processing
+2026-07-06,ORD-0075,South,Home,Desk Lamp,1,2383,20,1215.33,8,Cancelled
+2026-08-15,ORD-0076,East,Outdoor,Travel Mug,5,3463,0,2285.58,1,Cancelled
+2026-03-20,ORD-0077,North,Outdoor,Water Bottle,8,2616,20,1334.16,3,Delivered
+2026-03-20,ORD-0078,West,Outdoor,Water Bottle,4,3544,10,2516.24,4,Delivered
+2026-07-09,ORD-0079,West,Home,Coffee Table,6,3555,20,2026.35,7,Cancelled
+2026-07-10,ORD-0080,West,Home,Coffee Table,1,4008,0,1723.44,2,Delivered
+2026-06-22,ORD-0081,South,Outdoor,Travel Mug,1,1124,0,775.56,7,Delivered
+2026-09-28,ORD-0082,North,Technology,USB Hub,6,2481,20,1141.26,4,Delivered
+2026-05-05,ORD-0083,East,Home,Desk Lamp,1,367,15,201.85,2,Delivered
+2026-04-21,ORD-0084,West,Technology,Webcam,7,2560,15,1587.20,7,Processing
+2026-04-17,ORD-0085,East,Outdoor,Travel Mug,4,2594,5,1271.06,1,Delivered
+2026-06-11,ORD-0086,West,Outdoor,Water Bottle,8,4083,5,2939.76,4,Delivered
+2026-02-08,ORD-0087,North,Home,Storage Box,8,633,10,322.83,6,Delivered
+2026-06-06,ORD-0088,North,Outdoor,Travel Mug,8,2962,0,1836.44,7,Delivered
+2026-01-08,ORD-0089,South,Office,Pen Pack,6,3622,20,1521.24,2,Cancelled
+2026-02-25,ORD-0090,West,Technology,Webcam,3,2762,10,1242.90,5,Cancelled
+2026-04-03,ORD-0091,North,Office,Desk Chair,5,1585,10,935.15,6,Delivered
+2026-01-05,ORD-0092,South,Outdoor,Travel Mug,2,3205,5,2307.60,2,Cancelled
+2026-03-28,ORD-0093,North,Office,Pen Pack,3,3993,15,1677.06,6,Delivered
+2026-08-22,ORD-0094,West,Home,Coffee Table,2,3075,5,1322.25,2,Delivered
+2026-02-25,ORD-0095,South,Technology,USB Hub,2,2544,0,1246.56,5,Delivered
+2026-07-02,ORD-0096,South,Outdoor,Daypack,3,719,0,481.73,2,Cancelled
+2026-02-16,ORD-0097,North,Technology,Webcam,2,4312,20,2630.32,5,Processing
+2026-02-19,ORD-0098,East,Outdoor,Water Bottle,2,1582,15,711.90,8,Cancelled
+2026-02-25,ORD-0099,South,Home,Coffee Table,1,850,5,365.50,8,Delivered
+2026-08-28,ORD-0100,South,Outdoor,Daypack,3,3475,5,1598.50,4,Delivered
+2026-02-14,ORD-0101,East,Home,Storage Box,7,2829,20,1357.92,4,Delivered
+2026-07-08,ORD-0102,West,Technology,Wireless Mouse,6,3321,5,1394.82,7,Delivered
+2026-08-17,ORD-0103,North,Outdoor,Water Bottle,4,3625,0,2138.75,6,Delivered
+2026-05-27,ORD-0104,North,Office,Desk Chair,8,2171,0,1346.02,6,Delivered
+2026-02-11,ORD-0105,East,Home,Desk Lamp,5,310,5,195.30,4,Cancelled
+2026-03-25,ORD-0106,North,Technology,Wireless Mouse,1,2296,0,987.28,2,Delivered
+2026-09-02,ORD-0107,South,Technology,Wireless Mouse,8,1009,0,433.87,2,Delivered
+2026-03-07,ORD-0108,East,Outdoor,Water Bottle,3,1761,20,792.45,2,Cancelled
+2026-01-25,ORD-0109,North,Office,Desk Chair,2,2153,10,1507.10,8,Cancelled
+2026-09-23,ORD-0110,West,Office,Pen Pack,8,1218,10,633.36,4,Delivered
+2026-02-10,ORD-0111,North,Outdoor,Travel Mug,7,2758,20,1213.52,8,Delivered
+2026-08-21,ORD-0112,North,Home,Storage Box,8,1203,0,818.04,5,Delivered
+2026-02-09,ORD-0113,East,Office,Notebook Set,7,3856,15,1696.64,4,Cancelled
+2026-04-02,ORD-0114,West,Technology,USB Hub,3,455,15,259.35,2,Cancelled
+2026-08-13,ORD-0115,North,Office,Desk Chair,2,3951,20,1738.44,7,Delivered
+2026-07-01,ORD-0116,North,Technology,Webcam,7,284,0,193.12,5,Cancelled
+2026-03-05,ORD-0117,South,Technology,Wireless Mouse,8,2669,20,1654.78,1,Processing
+2026-01-11,ORD-0118,East,Outdoor,Water Bottle,3,3593,20,2119.87,4,Cancelled
+2026-09-24,ORD-0119,East,Technology,Webcam,7,1779,15,925.08,5,Processing
+2026-07-01,ORD-0120,South,Outdoor,Water Bottle,1,730,10,306.60,7,Delivered
