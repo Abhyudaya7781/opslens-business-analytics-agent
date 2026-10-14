@@ -95,14 +95,5 @@ python -m pytest
 - Natural-language output depends on the configured model. Tool outputs are the source of numeric evidence, but generated explanations still require review.
 - This is a portfolio project, not a production service. Authentication, deployment hardening, audit retention, and enterprise access controls are outside the current scope.
 
-## Interview discussion
-
-**Why use an LLM at all?** It maps an open-ended business question to a small set of supported analyses. Python remains responsible for the calculations.
-
-**How is this different from a chatbot?** The model can select tools, receive their actual outputs, and use those results to compose an answer. Tool calls and outputs are exposed for inspection.
-
-**How do you reduce hallucinations?** The system requires tools for data claims, limits available tools, validates arguments, returns structured evidence, and instructs the model to distinguish measured facts from possible explanations. This reduces risk but cannot eliminate all incorrect wording.
-
-**Why not let the model write pandas code?** Executing generated code introduces safety and reliability risks. A small tool surface is easier to test, explain, and constrain.
 
 **What would you improve next?** Add dataset-specific schema mapping, stronger evaluation cases for tool selection and answer faithfulness, data-size limits, request timeouts, and a deployment model with authentication and audit logs.
